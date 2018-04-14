@@ -6,3 +6,8 @@ spring:
       port: 8500
       config:
         format: FILES
+
+management:
+  endpoint:
+    health:
+      show-details: always
