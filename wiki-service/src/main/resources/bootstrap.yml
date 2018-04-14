@@ -1,0 +1,8 @@
+spring.application.name: wiki-service
+spring:
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      config:
+        format: FILES

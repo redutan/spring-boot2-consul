@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: config-server
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      config:
+        format: FILES
+
+
