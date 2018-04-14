@@ -2,7 +2,7 @@
 
 ## Consul Config
 
-[http://localhost:8500] 에서 KEY/VALUE를 아래와 같이 등록요망 
+[로컬 Consul Web-UI](http://localhost:8500) 에서 KEY/VALUE를 아래와 같이 등록요망 
 
 *config/application.yml*
 ```yml
